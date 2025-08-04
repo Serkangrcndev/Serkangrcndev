@@ -136,6 +136,9 @@ const serkanCan = {
 
 <div align="center">
   <img src="https://github.com/Serkangrcndev/Serkangrcndev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  
+  <!-- Alternatif animasyon - GitHub contribution grafiği -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serkangrcndev&theme=react-dark&hide_border=true&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&area_opacity=0.1" alt="GitHub Activity Graph" />
 </div>
 
 ---
