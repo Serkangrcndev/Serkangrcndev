@@ -132,14 +132,6 @@ const serkanCan = {
 
 ---
 
-## 🎨 Özel Animasyonlar
-
-<div align="center">
-  <img src="https://github.com/Serkangrcndev/Serkangrcndev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
----
-
 ## 📝 Son Blog Yazılarım
 
 <!-- BLOG-POST-LIST:START -->
