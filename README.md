@@ -74,6 +74,9 @@ const serkanCan = {
   <img src="https://github-profile-trophy.vercel.app/?username=Serkangrcndev&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
+<div align="center"> <!-- Alternatif animasyon - GitHub contribution grafiği -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serkangrcndev&theme=react-dark&hide_border=true&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&area_opacity=0.1" alt="GitHub Activity Graph" />
+</div>
 ---
 
 ## 🎵 Şu Anda Dinliyorum
@@ -129,18 +132,6 @@ const serkanCan = {
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
----
-
-## 🎨 Özel Animasyonlar
-
-<div align="center">
-  <img src="https://github.com/Serkangrcndev/Serkangrcndev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-  
-  <!-- Alternatif animasyon - GitHub contribution grafiği -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serkangrcndev&theme=react-dark&hide_border=true&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&area_opacity=0.1" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 ## 🏆 Başarılarım
