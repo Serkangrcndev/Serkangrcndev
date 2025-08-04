@@ -87,10 +87,10 @@ const serkanCan = {
 ## 🔥 Son Aktivitelerim
 
 <!--START_SECTION:activity-->
-1. 🚀 **Yeni Proje Başlattım** - RBAC Kütüphane Yönetim Sistemi
-2. 📱 **Mobile App Geliştirdim** - React Native ile cross-platform uygulama
-3. 🌐 **Web Uygulaması Tamamladım** - React + Redux Toolkit + RTK Query
-4. 💻 **Desktop Uygulaması Geliştirdim** - .NET 8 Windows Forms
+1. 🚀 **RBAC-LIBRARY** - Çok platformlu kütüphane yönetim sistemi (Desktop, Web, Mobile)
+2. 🤖 **YouTube AI Management** - Yapay zeka destekli YouTube yönetim uygulaması
+3. 📱 **React Native** - Cross-platform mobil uygulama geliştirme
+4. 🌐 **React 19 + Redux Toolkit** - Modern web uygulaması geliştirme
 <!--END_SECTION:activity-->
 
 ---
@@ -132,13 +132,11 @@ const serkanCan = {
 
 ---
 
-## 📝 Son Blog Yazılarım
+## 🎨 Özel Animasyonlar
 
-<!-- BLOG-POST-LIST:START -->
-- [React 19 ile Yeni Özellikler](https://medium.com/@serkangrcndev)
-- [Redux Toolkit ve RTK Query Rehberi](https://dev.to/serkangrcndev)
-- [Mobile App Development Best Practices](https://hashnode.com/@serkangrcndev)
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <img src="https://github.com/Serkangrcndev/Serkangrcndev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 ---
 
@@ -153,11 +151,11 @@ const serkanCan = {
 ## 🎯 Öne Çıkan Projelerim
 
 <div align="center">
-  <a href="https://github.com/Serkangrcndev/rbac-library-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Serkangrcndev&repo=rbac-library-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="RBAC Library System" />
+  <a href="https://github.com/Serkangrcndev/RBAC-LIBRARY">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Serkangrcndev&repo=RBAC-LIBRARY&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="RBAC Library System" />
   </a>
-  <a href="https://github.com/Serkangrcndev/mobile-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Serkangrcndev&repo=mobile-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Mobile App" />
+  <a href="https://github.com/Serkangrcndev/yotube-ai-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Serkangrcndev&repo=yotube-ai-management&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="YouTube AI Management" />
   </a>
 </div>
 
@@ -166,7 +164,7 @@ const serkanCan = {
 ## 🌟 Ziyaretçi Sayacı
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Serkangrcndev/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Serkangrcndev&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </div>
 
 ---
