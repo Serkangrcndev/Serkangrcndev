@@ -21,10 +21,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Serkangrcndev&theme=radical" />
 </p>
 
-<div align=center>
-  <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
-</div>
-
 <!-- retro visitor counter -->  
 <p align="center" >    
   <img src="https://profile-counter.glitch.me/Serkangrcndev/count.svg" />  
