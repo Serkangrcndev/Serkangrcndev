@@ -8,9 +8,6 @@
 p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### Bloglar mesajlar
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --
->
 <h3 align="left">Benimle bağlan:</h3><
 p align="left">
 <a href="https://dev.to/serkancan_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="serkancan_dev" height="30" width="40" /></a>
