@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend / backend developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serkangrcndev&label=Profile%20views&color=0e75b6&style=flat" alt="serkangrcndev" /> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=serkangrcndev&theme=radical" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkangrcndev" alt="serkangrcndev" /></a> </p>
 
