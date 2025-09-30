@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan Gürcan</h1>
 <h3 align="center">A passionate frontend / backend developer from Türkiye</h3>
-![profile count](https://komarev.com/ghpvc/?username=serkangrcndev&color=blue)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=Serkangrcndev&color=blue)&nbsp;
  </p>
 <img src="https://github-profile-trophy.vercel.app/?username=serkangrcndev&theme=radical" />
 </p>
