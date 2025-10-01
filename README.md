@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan Gürcan</h1>
-<h3 align="center">A passionate frontend / backend developer from Türkiye</h3>
+<h3 align="center">A passionate Frontend / Backend / Mobile App developer from Türkiye</h3>
 
 ![](https://komarev.com/ghpvc/?username=serkangrcndev&color=dc143c)
  </p>
