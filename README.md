@@ -15,7 +15,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" width="50" />
-  <img src="https://skillicons.dev/icons?i=java" width="50" />
   <img src="https://skillicons.dev/icons?i=html" width="50" />
   <img src="https://skillicons.dev/icons?i=css" width="50" />
   <img src="https://skillicons.dev/icons?i=cpp" width="50" />
