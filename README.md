@@ -19,6 +19,7 @@
   <img src="https://skillicons.dev/icons?i=html" width="50" />
   <img src="https://skillicons.dev/icons?i=css" width="50" />
   <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+    <img src="https://skillicons.dev/icons?i=cs" width="50" />
   <img src="https://skillicons.dev/icons?i=python" width="50" />
   <img src="https://skillicons.dev/icons?i=php" width="50" />
   <img src="https://skillicons.dev/icons?i=react" width="50" />
