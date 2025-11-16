@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=ts" width="50" />
   <img src="https://skillicons.dev/icons?i=postman" width="50" />
   <img src="https://skillicons.dev/icons?i=npm" width="50" />
-  <img src="https://skillicons.dev/icons?i=ardunio" width="50" />
+  <img src="https://skillicons.dev/icons?i=arduino" width="50" />
   <img src="https://skillicons.dev/icons?i=mysql" width="50" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="50" />  
 </p>
