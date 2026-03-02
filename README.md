@@ -31,9 +31,3 @@
   <img src="https://skillicons.dev/icons?i=mysql" width="50" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="50" />  
 </p>
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serkangrcndev&hide=prs,issues,contribs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&border_radius=12&rank_icon=github" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serkangrcndev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&border_radius=12" height="130" />
-</p>
