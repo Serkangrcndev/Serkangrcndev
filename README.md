@@ -12,55 +12,53 @@
   <img src="https://komarev.com/ghpvc/?username=serkangrcndev&color=dc143c&style=flat-square" alt="serkangrcndev" />
 </p>
 
----
+<table border="0">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>💫 About Me</h3>
+      <p>
+        Yozgat Bozok Üniversitesi Bilgisayar Programcılığı öğrencisi ve 6+ yıllık deneyimli bir geliştiriciyim. Kodun ötesine geçip siber güvenlik ve gelişmiş robotik sistemlerle uğraşıyorum.
+      </p>
+      <ul>
+        <li>🛡️ <b>Cyber Security:</b> Siber Vatan programında Penetration Testing ve Network Forensics üzerine uzmanlaşıyorum.</li>
+        <li>🤖 <b>Robotics:</b> TEKNOFEST için NVIDIA Jetson tabanlı <b>"Çelik Kubbe"</b> AI savunma sistemini geliştiriyorum.</li>
+        <li>💻 <b>Dev:</b> C++, Rust, Python ve Kotlin ile yüksek performanslı cross-platform uygulamalar yapıyorum.</li>
+        <li>🎓 <b>Academic:</b> 3.13 GANO ve Yüksek Onur Belgesi ile akademik kariyerime devam ediyorum.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-## 💫 About Me
-<p>
-<img align="right" width="250" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
-</p>
-
-Yozgat Bozok Üniversitesi Bilgisayar Programcılığı öğrencisi ve 6+ yıllık deneyimli bir geliştiriciyim. Kodun ötesine geçip siber güvenlik ve gelişmiş robotik sistemlerle uğraşıyorum.
-- 🛡️ **Cyber Security:** Siber Vatan programında Penetration Testing üzerine uzmanlaşıyorum.
-- 🤖 **Robotics:** TEKNOFEST için NVIDIA Jetson tabanlı **"Çelik Kubbe"** AI savunma sistemini geliştiriyorum.
-- 💻 **Dev:** C++, Rust, Python ve Kotlin ile yüksek performanslı cross-platform uygulamalar yapıyorum.
-
----
-
-### 🛠️ Languages & Technologies (Hover over me!)
+### 🛠️ Languages & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,rust,python,kotlin,js,ts,react,vue,vite,php,html,css,mysql,mongodb,docker,linux,kali,arduino&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,rust,python,kotlin,js,ts,react,vue,vite,php,html,css,mysql,postgres,sqlite,mongodb,docker,linux,kali,ubuntu,arch,arduino,raspberrypi&perline=12&theme=dark" />
   </a>
 </p>
 
----
-
 ### 📊 GitHub Stats & Streak
-
 <p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Serkangrcndev&theme=tokyonight&hide_border=true" alt="Serkan's Streak" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serkangrcndev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Serkangrcndev&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serkangrcndev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Serkangrcndev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Serkan's Stats" />
+  <img width="85%" src="https://github-readme-stats.vercel.app/api?username=Serkangrcndev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
-
----
-
-### Latest Activity
----
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/serkan-gürcan-0ab912332" target="blank">
+  <a href="https://linkedin.com/in/serkan-gürcan-dev" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/serkancxnn" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:serkangurcan.dev@gmail.com" target="blank">
+  <a href="mailto:serkan.gurcan.kariyer@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
