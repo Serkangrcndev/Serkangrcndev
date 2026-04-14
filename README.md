@@ -20,10 +20,10 @@
         Yozgat Bozok Üniversitesi Bilgisayar Programcılığı öğrencisi ve 6+ yıllık deneyimli bir geliştiriciyim. Kodun ötesine geçip siber güvenlik ve gelişmiş robotik sistemlerle uğraşıyorum.
       </p>
       <ul>
-        <li>🛡️ <b>Cyber Security:</b> Siber Vatan programında Penetration Testing ve Network Forensics üzerine uzmanlaşıyorum.</li>
+        <li>🛡️ <b>Cyber Security:</b> Siber Vatan programında Penetration Testing üzerine uzmanlaşıyorum.</li>
         <li>🤖 <b>Robotics:</b> TEKNOFEST için NVIDIA Jetson tabanlı <b>"Çelik Kubbe"</b> AI savunma sistemini geliştiriyorum.</li>
         <li>💻 <b>Dev:</b> C++, Rust, Python ve Kotlin ile yüksek performanslı cross-platform uygulamalar yapıyorum.</li>
-        <li>🎓 <b>Academic:</b> 3.13 GANO ve Yüksek Onur Belgesi ile akademik kariyerime devam ediyorum.</li>
+        <li>🎓 <b>Academic:</b> 3.13 GANO ve Yüksek Onur Belgesi sahibiyim.</li>
       </ul>
     </td>
     <td width="35%" align="center">
@@ -41,24 +41,24 @@
 
 ### 📊 GitHub Stats & Streak
 <p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Serkangrcndev&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=serkangrcndev&theme=tokyonight&hide_border=true" alt="Serkan's Streak" />
   &nbsp;&nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serkangrcndev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkangrcndev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="85%" src="https://github-readme-stats.vercel.app/api?username=Serkangrcndev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="85%" src="https://github-readme-stats.vercel.app/api?username=serkangrcndev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Serkan's Stats" />
 </p>
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/serkan-gürcan-dev" target="blank">
+  <a href="https://linkedin.com/in/serkan-gürcan-0ab912332" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/serkancxnn" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:serkan.gurcan.kariyer@gmail.com" target="blank">
+  <a href="mailto:serkangurcan.dev@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
