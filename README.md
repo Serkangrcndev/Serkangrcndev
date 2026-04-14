@@ -14,7 +14,8 @@
 
 ---
 
-### 💫 About Me
+## 💫 About Me
+
 <img align="right" width="250"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pczEybWZ5ODV5OGdzam92bWRpbnoxeWVmcm5sazBydWxqNjlxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 Yozgat Bozok Üniversitesi Bilgisayar Programcılığı öğrencisi ve 6+ yıllık deneyimli bir geliştiriciyim. Kodun ötesine geçip siber güvenlik ve gelişmiş robotik sistemlerle uğraşıyorum.
