@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 <p>
-<img align="right" width="250"src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pczEybWZ5ODV5OGdzam92bWRpbnoxeWVmcm5sazBydWxqNjlxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM0bmtjNGtyeWMwZDRkY3l5OGRnOGlvNHd2enBmemh3OGZqMDR5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)"/>
+<img align="right" width="250" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 </p>
 
 Yozgat Bozok Üniversitesi Bilgisayar Programcılığı öğrencisi ve 6+ yıllık deneyimli bir geliştiriciyim. Kodun ötesine geçip siber güvenlik ve gelişmiş robotik sistemlerle uğraşıyorum.
