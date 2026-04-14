@@ -1,4 +1,4 @@
-<p align="center">
+<img width="538" height="360" alt="resim" src="https://github.com/user-attachments/assets/bbea6e79-555c-43fa-931b-99c945fa81d9" /><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Serkan%20Gürcan&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Serkan Gürcan Banner" />
 </p>
 
