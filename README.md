@@ -1,4 +1,4 @@
-<img width="538" height="360" alt="resim" src="https://github.com/user-attachments/assets/bbea6e79-555c-43fa-931b-99c945fa81d9" /><p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Serkan%20Gürcan&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Serkan Gürcan Banner" />
 </p>
 
@@ -22,7 +22,7 @@
       <ul>
         <li>🛡️ <b>Cyber Security:</b> Siber Vatan programında Penetration Testing üzerine uzmanlaşıyorum.</li>
         <li>🤖 <b>Robotics:</b> TEKNOFEST için NVIDIA Jetson tabanlı <b>"Çelik Kubbe"</b> AI savunma sistemini geliştiriyorum.</li>
-        <li>💻 <b>Dev:</b> C++, Rust, Python ve Kotlin ile yüksek performanslı cross-platform uygulamalar yapıyorum.</li>
+        <li>💻 <b>Dev:</b> C++, Rust, Python ve Kotlin ile yüksek performanslı uygulamalar yapıyorum.</li>
         <li>🎓 <b>Academic:</b> 3.13 GANO ve Yüksek Onur Belgesi sahibiyim.</li>
       </ul>
     </td>
@@ -31,6 +31,17 @@
     </td>
   </tr>
 </table>
+
+### 📊 GitHub Stats & Streak
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=serkangrcndev&theme=tokyonight&hide_border=true" alt="Serkan's Streak" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=serkangrcndev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="85%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=serkangrcndev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Serkan's Stats" />
+</p>
 
 ### 🛠️ Languages & Technologies
 <p align="center">
