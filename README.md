@@ -54,7 +54,7 @@
   <a href="https://linkedin.com/in/serkan-gürcan-dev" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/serkancxnn" target="blank">
+  <a href="https://instagram.com/serkanncxn" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:serkan.gurcan.kariyer@gmail.com" target="blank">
