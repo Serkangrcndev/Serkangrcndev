@@ -36,7 +36,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=serkangrcndev&theme=tokyonight&hide_border=true" alt="Serkan's Streak" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=serkangrcndev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -52,13 +51,13 @@
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/serkan-gürcan-0ab912332" target="blank">
+  <a href="https://linkedin.com/in/serkan-gürcan-dev" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/serkancxnn" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:serkangurcan.dev@gmail.com" target="blank">
+  <a href="mailto:serkan.gurcan.kariyer@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
