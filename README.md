@@ -43,11 +43,11 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=serkangrcndev&theme=tokyonight&hide_border=true" alt="Serkan's Streak" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkangrcndev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=serkangrcndev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="85%" src="https://github-readme-stats.vercel.app/api?username=serkangrcndev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Serkan's Stats" />
+  <img width="85%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=serkangrcndev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Serkan's Stats" />
 </p>
 
 ### 📫 Connect with me:
