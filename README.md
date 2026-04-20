@@ -45,7 +45,7 @@
 ### 🛠️ Languages & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,rust,python,kotlin,js,go,ts,react,vue,vite,php,html,css,mysql,postgres,sqlite,mongodb,docker,linux,kali,ubuntu,arch,arduino,raspberrypi&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,rust,python,kotlin,js,go,ts,react,.net,vue,vite,php,html,css,mysql,postgres,sqlite,mongodb,docker,linux,kali,ubuntu,arch,arduino,raspberrypi&perline=12&theme=dark" />
   </a>
 </p>
 
