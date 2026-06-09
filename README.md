@@ -23,7 +23,7 @@
         <li>🛡️ <b>Cyber Security:</b> Siber Vatan programında Penetration Testing üzerine uzmanlaşıyorum.</li>
         <li>🤖 <b>Robotics:</b> TEKNOFEST için NVIDIA Jetson tabanlı <b>"Çelik Kubbe"</b> AI savunma sistemini geliştiriyorum.</li>
         <li>💻 <b>Dev:</b> C++, Rust, Python ve Kotlin ile yüksek performanslı uygulamalar yapıyorum.</li>
-        <li>🎓 <b>Academic:</b> 3.13 GANO ve Yüksek Onur Belgesi sahibiyim.</li>
+        <li>🎓 <b>Academic:</b> 3.33 GANO ve Yüksek Onur Belgesi sahibiyim.</li>
       </ul>
     </td>
     <td width="35%" align="center">
