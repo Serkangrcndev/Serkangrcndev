@@ -1,13 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Serkan%20Gürcan&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Serkan Gürcan Banner" />
 </p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Cyber+Security+Researcher;Robotics+%26+AI+Enthusiast;TEKNOFEST+TEAM;Always+Learning..." alt="Typing SVG" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=serkangrcndev&color=dc143c&style=flat-square" alt="serkangrcndev" />
 </p>
@@ -34,7 +27,7 @@
 
 ### 📊 GitHub Stats & Streak
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=serkangrcndev&theme=tokyonight&hide_border=true" alt="Serkan's Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Serkangrcndev&theme=tokyonight&hide_border=true" alt="Serkan's Streak" />
   &nbsp;&nbsp;
 </p>
 
@@ -64,4 +57,4 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>   bu benim github profilim daha güzel birşey yapalım
+</p>
