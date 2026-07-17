@@ -27,11 +27,6 @@
 
 ### 📊 GitHub Stats & Streak
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Serkangrcndev&theme=tokyonight&hide_border=true" alt="Serkan's Streak" />
-  &nbsp;&nbsp;
-</p>
-
-<p align="center">
   <img width="85%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=serkangrcndev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Serkan's Stats" />
 </p>
 
